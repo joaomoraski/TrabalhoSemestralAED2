@@ -46,13 +46,11 @@ ITEM_VENDA *consumirBufferEntrada(BUFFERENTRADA *bufferEntrada, const char *arqu
 
 int verificarVazioBuffEntrada(BUFFERENTRADA *bufferEntrada) { return bufferEntrada->qtdeConsumidos == bufferEntrada->qtdeRegistros ? 1 : 0; }
 
-int destruirArquivo(const char *arquivo) { return remove(arquivo); }
-
 void destruirBufferEntrada(const char *arquivoEntrada, BUFFERENTRADA **vetorBufferEntrada, int qtdeBuffers) {
     for (int i = 0; i < qtdeBuffers; i++) {
         char nomeArquivoPart[qtdeBuffers];
         sprintf(nomeArquivoPart, "%d", i);
-        if (destruirArquivo(nomeArquivoPart) == 0) {
+        if (remove(arquivo) == 0) {
             free(vetorBufferEntrada[i]->itensVenda);
             free(vetorBufferEntrada[i]);
         }
