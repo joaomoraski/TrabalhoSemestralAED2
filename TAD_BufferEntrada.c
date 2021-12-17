@@ -31,29 +31,30 @@ ITEM_VENDA *proxBufferEntrada(BUFFERENTRADA *bufferEntrada) { return &bufferEntr
 
 ITEM_VENDA *consumirBufferEntrada(BUFFERENTRADA *bufferEntrada, const char *arquivo) {
     if (bufferEntrada == NULL || bufferEntrada->isLigado == 0) return NULL;
-
     if (verificarVazioBuffEntrada(bufferEntrada) == 1) {
         lerArquivoEntrada(arquivo, bufferEntrada, bufferEntrada->qtdeConsumidos);
         bufferEntrada->qtdeConsumidos = 0;
     }
-
     bufferEntrada->qtdeConsumidos++;
     bufferEntrada->qtdeConsumidosTotal++;
-
     if (bufferEntrada->qtdeConsumidosTotal == bufferEntrada->qtdeRegistrosTotal) bufferEntrada->isLigado = 0;
     return &bufferEntrada->itensVenda[bufferEntrada->qtdeConsumidos - 1];
 }
 
 int verificarVazioBuffEntrada(BUFFERENTRADA *bufferEntrada) { return bufferEntrada->qtdeConsumidos == bufferEntrada->qtdeRegistros ? 1 : 0; }
 
+int destruirArquivos(const char *arq){ return remove(arq); }
+
 void destruirBufferEntrada(const char *arquivoEntrada, BUFFERENTRADA **vetorBufferEntrada, int qtdeBuffers) {
+    if (vetorBufferEntrada == NULL) return;
+    if (arquivoEntrada == NULL) return;
+    if (qtdeBuffers == 0) return;
     for (int i = 0; i < qtdeBuffers; i++) {
-        char nomeArquivoPart[qtdeBuffers];
+        char nomeArquivoPart[contaNomeArqTemp(qtdeBuffers)];
         sprintf(nomeArquivoPart, "%d", i);
-        if (remove(arquivo) == 0) {
-            free(vetorBufferEntrada[i]->itensVenda);
-            free(vetorBufferEntrada[i]);
-        }
+        destruirArquivos(nomeArquivoPart);
+        free(vetorBufferEntrada[i]->itensVenda);
+        free(vetorBufferEntrada[i]);
     }
     free(vetorBufferEntrada);
     remove(arquivoEntrada);

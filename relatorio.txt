@@ -1,0 +1,144 @@
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 8388608 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.059361 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 8388608 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.188312 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 8388608 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.163298 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.111989 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.078314 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.446914 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.084497 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.062405 segundos
+========================= Ordenacao com 256000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.043526 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.663556 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.425596 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 16777216 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.500431 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.225826 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.286437 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 33554432 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.354948 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 1.159456 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.097489 segundos
+========================= Ordenacao com 512000 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 2.186625 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.524187 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.869151 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.614441 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.411878 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.452055 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.531516 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.436780 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 5.378153 segundos
+========================= Ordenacao com 921600 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 4.988555 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 11.788881 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 11.684019 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 67108864 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 10.886913 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 10.548516 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 10.459719 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 134217728 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 10.626184 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/8 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 10.243840 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/4 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 9.671908 segundos
+========================= Ordenacao com 1572864 registros =========================
+========================= Tamanho maximo de bits 268435456 - B/2 =========================
+Arquivo de entrada e saida possuem o mesmo tamanho.
+Tempo necessário: 9.426295 segundos

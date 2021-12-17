@@ -1,7 +1,6 @@
 //
 // Created by moraski on 02/12/2021.
 //
-
 #include <stdio.h>
 #include "ItemVenda.h"
 
